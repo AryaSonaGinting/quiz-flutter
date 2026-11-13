@@ -1,3 +1,10 @@
+#Dokumentasi
+<img width="1757" height="988" alt="image" src="https://github.com/user-attachments/assets/00250917-5577-4105-b04b-a81a0890e96b" />
+<img width="1757" height="930" alt="image" src="https://github.com/user-attachments/assets/4a136b04-fc1d-4fb9-a2c3-7d71f0141fd5" />
+<img width="1757" height="933" alt="image" src="https://github.com/user-attachments/assets/3ca019a1-5c62-495f-8b25-e84b980ef88c" />
+
+
+
 # Quiz Nova — Flutter
 
 Aplikasi kuis pilihan ganda dengan:
