@@ -7,7 +7,10 @@
 # Data Mahasiswa
 
 Nama  : Arya Sona Ginting
+
 Nim   : 241401100
+Lab   : Pemrograman Mobile 2
+
 
 
 
